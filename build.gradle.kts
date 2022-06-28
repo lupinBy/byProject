@@ -15,7 +15,7 @@ repositories {
 dependencies {
     implementation("org.springframework.boot:spring-boot:2.7.0")
     implementation("org.springframework.boot:spring-boot-starter-web:2.7.0")
-    implementation("org.springframework:spring-webflux:5.3.20")
+    implementation("org.springframework.boot:spring-boot-starter-webflux:2.7.0")
 //    implementation("io.projectreactor:reactor-core:3.4.18")
 
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.1")
